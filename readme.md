@@ -4,8 +4,6 @@
   <img src="./banner.jpg.png" alt="Mahmudul Hasan - Frontend Developer" width="100%" />
 </p>
 
-<br>
-
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hey, I'm Mahmudul Hasan 👋</h1>
