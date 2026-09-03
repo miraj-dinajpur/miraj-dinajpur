@@ -43,6 +43,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://github.com/miraj-dinajpur">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mahmudul.dinajpur">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
   </a>
 </p>
 
