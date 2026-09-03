@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%" />
+  <img src="./banner.jpg.png" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Mahmudul Hasan</h1>
