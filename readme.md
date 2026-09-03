@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./bannerjpg.png" alt="Mahmudul Hasan - Frontend Developer" width="100%" />
+  <img src="./banner.jpg.png" alt="Mahmudul Hasan - Frontend Developer" width="100%" />
 </p>
 
 <br>
