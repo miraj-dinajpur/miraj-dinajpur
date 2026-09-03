@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
+</p>
 
 <h1 align="center">Hey, I'm Mahmudul Hasan</h1>
 <h3 align="center">An Aspiring Frontend Developer & Problem Solver</h3>
