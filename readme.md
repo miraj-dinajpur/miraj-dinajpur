@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/mahmudul.dinajpur">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" />
   </a>
 </p>
 
