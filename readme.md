@@ -37,76 +37,35 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/mahmudul-dinajpur">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:miraj.dinajpur@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/miraj-dinajpur">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-</a>
-
+  <a href="https://linkedin.com/in/mahmudul-dinajpur">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:miraj.dinajpur@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/miraj-dinajpur">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
 </p>
-
-<br>
-
-<!-- ===================== FRONTEND ===================== -->
 
 ## 💻 Frontend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" width="45" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css" width="45" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=js" width="45" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=ts" width="45" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=react" width="45" />
-
+  <img src="https://skillicons.dev/icons?i=html" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" />
 </p>
-
-<br>
-
-<!-- ===================== TOOLS ===================== -->
 
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" width="45" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" width="45" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" width="45" />
-
+  <img src="https://skillicons.dev/icons?i=git" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="40" />
 </p>
-
-<br>
-
-<!-- ===================== PROBLEM SOLVING ===================== -->
 
 ## 🧩 Problem Solving
 
@@ -114,10 +73,6 @@
   I regularly practice programming problems to improve my
   <strong>logic, algorithms, and problem-solving skills.</strong>
 </p>
-
-<br>
-
-<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Activity
 
