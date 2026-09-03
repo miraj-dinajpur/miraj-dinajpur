@@ -46,7 +46,7 @@
   </a>
 </p>
 
-## 💻 Frontend
+## 💻 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="40" />&nbsp;&nbsp;
